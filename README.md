@@ -1,0 +1,1 @@
+This is a simple converter to batch process images using the tinypng api.
